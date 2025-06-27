@@ -26,32 +26,20 @@ A beautiful and functional ChatGPT clone built with vanilla HTML, CSS, and JavaS
 
 ### 2. Setup the Application
 
-1. Open `index.html` in your web browser
-2. Enter your OpenAI API key in the sidebar
-3. Click "Save" to store the key
-4. Start chatting!
+1. Create `constant.js` in your application
+2. Enter your OpenAI API key 
+3. Enjoy!
 
 ## Usage
 
 - **New Chat**: Click the "New Chat" button to start a fresh conversation
 - **Chat History**: Previous conversations are saved in the left sidebar
 - **Send Messages**: Type your message and press Enter or click the send button
-- **API Key**: Enter your OpenAI API key in the sidebar input field
-
-## File Structure
-
-```
-chatgpt-clone/
-├── index.html          # Main HTML file
-├── style.css           # Styling and animations
-├── script.js           # JavaScript functionality
-└── README.md           # This file
-```
 
 ## Technical Details
 
 - **Frontend**: Vanilla HTML, CSS, JavaScript
-- **API**: OpenAI GPT-3.5-turbo
+- **API**: OpenAI GPT-4.0-mini
 - **Storage**: Browser localStorage for chat history and API key
 - **Styling**: CSS Grid, Flexbox, and CSS animations
 - **Icons**: Font Awesome for beautiful icons
@@ -82,10 +70,6 @@ chatgpt-clone/
 - Firefox 55+
 - Safari 12+
 - Edge 79+
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
 
 ## License
 
