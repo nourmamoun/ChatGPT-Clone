@@ -4,7 +4,7 @@ A beautiful and functional ChatGPT clone built with vanilla HTML, CSS, and JavaS
 
 ## Features
 
-- 🤖 **OpenAI API Integration** - Uses GPT-3.5-turbo for conversations
+- 🤖 **OpenAI API Integration** - Uses GPT-4.0-mini for conversations
 - 💬 **Chat History** - Automatically saves and loads previous conversations
 - 🎨 **Beautiful UI** - Modern, responsive design with smooth animations
 - 💾 **Local Storage** - Chat history and API key stored locally
