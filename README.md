@@ -2,7 +2,8 @@
 
 A beautiful and functional ChatGPT clone built with vanilla HTML, CSS, and JavaScript. Features include chat history, OpenAI API integration, and a modern user interface.
 
-![Screenshot 2025-06-27 163933](https://github.com/user-attachments/assets/a57386f0-2656-4ce5-98ee-d96bc523a70c)
+![Screenshot 2025-06-27 164902](https://github.com/user-attachments/assets/e4ca6ace-9a4a-4482-a993-e4b3940a76a9)
+![Screenshot 2025-06-27 164917](https://github.com/user-attachments/assets/f965a112-c489-47ea-8d1e-b3002d47639b)
 
 ## Features
 
